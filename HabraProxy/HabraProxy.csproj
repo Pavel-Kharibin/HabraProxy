@@ -132,9 +132,7 @@
     <Content Include="Views\Proxy\SendCode.cshtml" />
     <Content Include="Views\Proxy\VerifyCode.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
